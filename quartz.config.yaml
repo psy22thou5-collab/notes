@@ -141,7 +141,7 @@ plugins:
   - source: "@quartz-community/content-index"
     enabled: true
     options:
-      enableSiteMap: true
+      enableSiteMap: false
       enableRSS: true
   - source: "@quartz-community/favicon"
     enabled: true
