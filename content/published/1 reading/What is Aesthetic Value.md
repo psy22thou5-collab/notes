@@ -4,6 +4,7 @@
 tags:
 トピック:
   - 美的規範性
+PDF: "[[Shelley 2024 - What is aesthetic value.pdf]]"
 読了: true
 ---
 

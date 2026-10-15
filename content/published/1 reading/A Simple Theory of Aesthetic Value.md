@@ -4,6 +4,7 @@
 tags:
 トピック:
   - 美的規範性
+PDF: "[[Shelley 2023 - A Simple Theory of Aesthetic Value.pdf]]"
 読了: true
 ---
 
