@@ -3,7 +3,7 @@
 出版年: "2024"
 tags:
 トピック:
-  - 美的規範性
+  - 美学/美的価値と規範
 PDF: "[[Shelley 2024 - What is aesthetic value.pdf]]"
 読了: true
 ---

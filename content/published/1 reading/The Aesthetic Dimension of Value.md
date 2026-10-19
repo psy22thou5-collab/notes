@@ -3,8 +3,7 @@
 出版年: forthcoming
 tags:
 トピック:
-  - 美的規範性
-  - 美的価値
+  - 美学/美的価値と規範
 PDF: "[[Kirby - The aesthetic dimension of value.pdf]]"
 読了: true
 ---

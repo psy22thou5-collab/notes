@@ -3,7 +3,7 @@
 出版年: "2023"
 tags:
 トピック:
-  - 美的規範性
+  - 美学/美的価値と規範
 PDF: "[[Shelley 2023 - A Simple Theory of Aesthetic Value.pdf]]"
 読了: true
 ---
